@@ -1,6 +1,6 @@
 <h1 align="center">Karlo Xavier Chok<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=CAF753&lines=Developer - Gamer - Barcelonista;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=CAF753&lines=Developer+-+Gamer+-+Barcelonista"></a>
 </p>
 <hr/>
 
@@ -8,14 +8,14 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/harlericho.svg?style=social&label=Followers)](https://github.com/harlericho?tab=followers)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=I'm+harlericho..;I'm+a+Developer+Web...;And+I'm+Ecuadorian+🇪🇨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=FiraCode+Daughter&color=50CD74&size=30&lines=I'm+harlericho..;I'm+a+Developer+Web...;And+I'm+Ecuadorian+🇪🇨)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=harlericho&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
 ## 👤 About who I am and what I do:
 
 - 👨‍💼 I am a systems analyst, in the future I will study computer engineering.
-- 🛠 I work on both educational and professional web application projects.
+- 💼 I work on both educational and professional web application projects.
 - 🌱 I have 3 years of computer technical support and 1 year of web development.
 - 🔭 I am currently looking for a junior programmer job as I don't have much professional experience in that field.
 - 📚 In my free time I dedicate myself to learning new things in the field of web programming.
@@ -32,12 +32,16 @@
 <a target="_blank" href="mailto:harlericho@gmail.com"
 ><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 &emsp;
+<a target="_blank" href="https://www.youtube.com/channel/UCJp92-trElzmDFTvqHg68eg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></img></a>
+&emsp;
 <a target="_blank" href="https://twitter.com/harlericho"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="https://api.whatsapp.com/send/?phone=%2B593988050918&text&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></img></a>
 &emsp;
+<a target="_blank" href="https://hub.docker.com/u/harlericho"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></img></a>
+&emsp;
 <a target="_blank" href="https://harlericho.netlify.app/"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></img></a>
-
+</a>
 </div>
 <br>
 </p>
@@ -102,6 +106,10 @@
   <a href="https://www.codeigniter.com/" target="_blank">
     <img alt="Codeigniter" src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white">
   </a>
+   &emsp;
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
+  </a>
   &emsp;
   <a href="https://expressjs.com/es/" target="_blank">
     <img alt="Expressjs" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -109,6 +117,10 @@
   &emsp;
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
     <img alt="Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+  </a>
+  &emsp;
+     <a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank">
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   </a>
   &emsp;
   <a href="https://angular.io/" target="_blank">
@@ -173,4 +185,5 @@
 ---
 
 Credit: [Karlo Xavier Chok](https://github.com/harlericho)
+
 Copyright © 2022 harlericho
